@@ -23,7 +23,7 @@ email: website@durf.works
 description: >- # this means to ignore newlines until "baseurl:"
   A software delivery consultancy in the Denver area
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: https://durfworks.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: chuckdurfee
 github_username: durfworks
 github: [metadata]
