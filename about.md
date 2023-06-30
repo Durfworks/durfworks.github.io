@@ -13,7 +13,6 @@ At durf.works, we offer the following services:
 - Process coaching, including agile and lean methods
 - Engineering management
 - Software development
-- Project management
 - Code review and optimization
 - Training and workshops
 
